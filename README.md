@@ -2,7 +2,7 @@
 
 > A practical, in-depth Linux command reference — built one command at a time, with real-world examples, edge cases, and interview-ready explanations.
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 ![Progress](https://img.shields.io/badge/commands-12%20%2F%2052%20completed-yellow.svg)
@@ -134,4 +134,4 @@ Found a typo, a broken example, or an outdated explanation? Open an issue or PR 
 
 ## 📜 License
 
-MIT — see [LICENSE](LICENSE) for details.
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see [LICENSE](LICENSE) for details. You're free to share and adapt the content, even commercially, as long as you give appropriate credit.
