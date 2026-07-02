@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 12 of 52 command pages fully completed (~23%).**
+**Current progress: 15 of 52 command pages fully completed (~29%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -29,7 +29,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 📦 Archives | 1 / 2 | 🚧 In progress |
 | 📁 Files | 0 / 6 | ⏳ Planned |
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
-| 🔐 Permissions | 0 / 3 | ⏳ Planned |
+| 🔐 Permissions | 3 / 3 | ⏳ Planned |
 | ⚙️ Processes | 0 / 5 | ⏳ Planned |
 | 🛠️ System | 0 / 6 | ⏳ Planned |
 
@@ -64,6 +64,9 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`passwd`](commands/user/passwd/README.md) | User | Change a user's password |
 | [`useradd`](commands/user/useradd/README.md) | User | Create a new user account |
 | [`who` / `w`](commands/user/who-w/README.md) | User | Show who is logged in |
+| [`sudo`](commands/permissions/sudo/README.md) | User | Run as superuser |
+| [`chown`](commands/permissions/chown/README.md) | User | Change file ownership |
+| [`chmod`](commands/permissions/chmod/README.md) | User | Change file permissions |
 
 ---
 
@@ -74,7 +77,6 @@ These commands are already scaffolded and queued for full write-ups:
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
 - **Navigation:** `pwd`, `man`, `alias`
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
-- **Permissions:** `chmod`, `chown`, `sudo`
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
 - **Disk:** `df`, `du`, `lsblk`
 - **Archives:** `unzip` / `zip`
