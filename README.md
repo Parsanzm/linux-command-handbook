@@ -29,7 +29,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 📦 Archives | 1 / 2 | 🚧 In progress |
 | 📁 Files | 0 / 6 | ⏳ Planned |
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
-| 🔐 Permissions | 3 / 3 | ⏳ Planned |
+| 🔐 Permissions | 3 / 3 | ✅ Complete |
 | ⚙️ Processes | 0 / 5 | ⏳ Planned |
 | 🛠️ System | 0 / 6 | ⏳ Planned |
 
@@ -64,9 +64,9 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`passwd`](commands/user/passwd/README.md) | User | Change a user's password |
 | [`useradd`](commands/user/useradd/README.md) | User | Create a new user account |
 | [`who` / `w`](commands/user/who-w/README.md) | User | Show who is logged in |
-| [`sudo`](commands/permissions/sudo/README.md) | User | Run as superuser |
-| [`chown`](commands/permissions/chown/README.md) | User | Change file ownership |
-| [`chmod`](commands/permissions/chmod/README.md) | User | Change file permissions |
+| [`sudo`](commands/permissions/sudo/README.md) | Permissions | Run as superuser |
+| [`chown`](commands/permissions/chown/README.md) | Permissions | Change file ownership |
+| [`chmod`](commands/permissions/chmod/README.md) | Permissions | Change file permissions |
 
 ---
 
