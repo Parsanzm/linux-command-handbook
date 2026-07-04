@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 15 of 52 command pages fully completed (~29%).**
+**Current progress: 16 of 52 command pages fully completed (~31%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -26,7 +26,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 📝 Text Processing | 3 / 9 | 🚧 In progress |
 | 🧭 Navigation | 2 / 6 | 🚧 In progress |
 | 💽 Disk | 1 / 4 | 🚧 In progress |
-| 📦 Archives | 1 / 2 | 🚧 In progress |
+| 📦 Archives | 2 / 2 | ✅ Complete |
 | 📁 Files | 0 / 6 | ⏳ Planned |
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
@@ -67,6 +67,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`sudo`](commands/permissions/sudo/README.md) | Permissions | Run as superuser |
 | [`chown`](commands/permissions/chown/README.md) | Permissions | Change file ownership |
 | [`chmod`](commands/permissions/chmod/README.md) | Permissions | Change file permissions |
+| [`unzip-zip`](commands/archives/unzip-zip/README.md) | Archives | Compress and Extract Files |
 
 ---
 
@@ -79,7 +80,6 @@ These commands are already scaffolded and queued for full write-ups:
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
 - **Disk:** `df`, `du`, `lsblk`
-- **Archives:** `unzip` / `zip`
 - **System:** `uname`, `uptime`, `env`, `history`, `cron` / `crontab`
 - **Text Processing:** `sed`, `sort`, `wc`, `tee`, `diff`, `pip`
 
