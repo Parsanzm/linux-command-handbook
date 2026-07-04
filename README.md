@@ -24,7 +24,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 🔎 Search | 2 / 2 | ✅ Complete |
 | 👤 User Management | 3 / 3 | ✅ Complete |
 | 📝 Text Processing | 3 / 9 | 🚧 In progress |
-| 🧭 Navigation | 2 / 6 | 🚧 In progress |
+| 🧭 Navigation | 2 / 4 | 🚧 In progress |
 | 💽 Disk | 1 / 4 | 🚧 In progress |
 | 📦 Archives | 2 / 2 | ✅ Complete |
 | 📁 Files | 0 / 6 | ⏳ Planned |
