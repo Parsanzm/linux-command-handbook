@@ -68,7 +68,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`chown`](commands/permissions/chown/README.md) | Permissions | Change file ownership |
 | [`chmod`](commands/permissions/chmod/README.md) | Permissions | Change file permissions |
 | [`unzip-zip`](commands/archives/unzip-zip/README.md) | Archives | Compress and Extract Files |
-| [`alias`](commands/system/alias/README.md) | System | Command shortcut creato |
+| [`alias`](commands/system/alias/README.md) | System | Command shortcut creator |
 
 ---
 
