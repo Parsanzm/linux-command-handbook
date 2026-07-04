@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-16%20%2F%2052%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-17%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 16 of 52 command pages fully completed (~31%).**
+**Current progress: 17 of 50 command pages fully completed (~34%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -68,6 +68,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`chown`](commands/permissions/chown/README.md) | Permissions | Change file ownership |
 | [`chmod`](commands/permissions/chmod/README.md) | Permissions | Change file permissions |
 | [`unzip-zip`](commands/archives/unzip-zip/README.md) | Archives | Compress and Extract Files |
+| [`alias`](commands/system/alias/README.md) | System | Command shortcut creato |
 
 ---
 
@@ -76,7 +77,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 These commands are already scaffolded and queued for full write-ups:
 
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
-- **Navigation:** `pwd`, `man`, `alias`
+- **Navigation:** `pwd`, `man`
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
 - **Disk:** `df`, `du`, `lsblk`
