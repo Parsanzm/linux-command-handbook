@@ -31,7 +31,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
 | ⚙️ Processes | 0 / 5 | ⏳ Planned |
-| 🛠️ System | 0 / 6 | ⏳ Planned |
+| 🛠️ System | 1 / 6 | 🚧 In progress |
 
 ---
 
