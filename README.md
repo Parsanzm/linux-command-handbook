@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-18%20%2F%2050%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-19%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,14 +17,14 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 18 of 50 command pages fully completed (36%).**
+**Current progress: 19 of 50 command pages fully completed (38%).**
 
 | Category | Progress | Status |
 |---|---|---|
 | 🔎 Search | 2 / 2 | ✅ Complete |
 | 👤 User Management | 3 / 3 | ✅ Complete |
 | 📝 Text Processing | 3 / 9 | 🚧 In progress |
-| 🧭 Navigation | 3 / 4 | 🚧 In progress |
+| 🧭 Navigation | 4 / 4 | ✅ Complete |
 | 💽 Disk | 1 / 4 | 🚧 In progress |
 | 📦 Archives | 2 / 2 | ✅ Complete |
 | 📁 Files | 0 / 6 | ⏳ Planned |
@@ -70,6 +70,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`unzip-zip`](commands/archives/unzip-zip/README.md) | Archives | Compress and Extract Files |
 | [`alias`](commands/system/alias/README.md) | System | Command shortcut creator |
 | [`man`](commands/navigation/man/README.md) | Navigation | Manual page display |
+| [`pwd`](commands/navigation/pwd/README.md) | Navigation | Print working directory |
 
 ---
 
@@ -78,7 +79,6 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 These commands are already scaffolded and queued for full write-ups:
 
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
-- **Navigation:** `pwd`
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
 - **Disk:** `df`, `du`, `lsblk`
