@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-19%20%2F%2050%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-20%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,13 +17,13 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 19 of 50 command pages fully completed (38%).**
+**Current progress: 20 of 50 command pages fully completed (40%).**
 
 | Category | Progress | Status |
 |---|---|---|
 | 🔎 Search | 2 / 2 | ✅ Complete |
 | 👤 User Management | 3 / 3 | ✅ Complete |
-| 📝 Text Processing | 3 / 9 | 🚧 In progress |
+| 📝 Text Processing | 4 / 9 | 🚧 In progress |
 | 🧭 Navigation | 4 / 4 | ✅ Complete |
 | 💽 Disk | 1 / 4 | 🚧 In progress |
 | 📦 Archives | 2 / 2 | ✅ Complete |
@@ -71,6 +71,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`alias`](commands/system/alias/README.md) | System | Command shortcut creator |
 | [`man`](commands/navigation/man/README.md) | Navigation | Manual page display |
 | [`pwd`](commands/navigation/pwd/README.md) | Navigation | Print working directory |
+| [`sed`](commands/text-processing/sed/README.md) | Text Processing | Stream text editor |
 
 ---
 
@@ -83,7 +84,7 @@ These commands are already scaffolded and queued for full write-ups:
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
 - **Disk:** `df`, `du`, `lsblk`
 - **System:** `uname`, `uptime`, `env`, `history`, `cron` / `crontab`
-- **Text Processing:** `sed`, `sort`, `wc`, `tee`, `diff`, `pip`
+- **Text Processing:** `sort`, `wc`, `tee`, `diff`, `pip`
 
 ---
 
