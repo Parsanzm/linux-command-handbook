@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-25%20%2F%2050%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-28%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 25 of 50 command pages fully completed (50%).**
+**Current progress: 28 of 50 command pages fully completed (56%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -25,7 +25,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 👤 User Management | 3 / 3 | ✅ Complete |
 | 📝 Text Processing | 9 / 9 | ✅ Complete |
 | 🧭 Navigation | 4 / 4 | ✅ Complete |
-| 💽 Disk | 1 / 4 | 🚧 In progress |
+| 💽 Disk | 4 / 4 | ✅ Complete |
 | 📦 Archives | 2 / 2 | ✅ Complete |
 | 📁 Files | 0 / 6 | ⏳ Planned |
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
@@ -77,6 +77,9 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`sort`](commands/text-processing/sort/README.md) | Text Processing | Sorts text lines |
 | [`wc`](commands/text-processing/wc/README.md) | Text Processing | Count lines , words ... in stream |
 | [`diff`](commands/text-processing/diff/README.md) | Text Processing | Compares file changes |
+| [`lsblk`](commands/disk/lsblk/README.md) | Disk | List block devices |
+| [`du`](commands/disk/du/README.md) | Disk | Estimate disk usage |
+| [`df`](commands/disk/df/README.md) | Disk | File system disk space usage |
 
 
 
@@ -89,7 +92,6 @@ These commands are already scaffolded and queued for full write-ups:
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
-- **Disk:** `df`, `du`, `lsblk`
 - **System:** `uname`, `uptime`, `env`, `history`, `cron` / `crontab`
 
 ---
