@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-30%20%2F%2050%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-31%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 30 of 50 command pages fully completed (60%).**
+**Current progress: 31 of 50 command pages fully completed (62%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -31,7 +31,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
 | ⚙️ Processes | 0 / 5 | ⏳ Planned |
-| 🛠️ System | 3 / 6 | 🚧 In progress |
+| 🛠️ System | 4 / 6 | 🚧 In progress |
 
 ---
 
@@ -82,6 +82,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`df`](commands/disk/df/README.md) | Disk | File system disk space usage |
 | [`cron-crontab`](commands/system/cron-crontab/README.md) | System | Automated background scheduling |
 | [`uptime`](commands/system/uptime/README.md) | System | System running time |
+| [`history`](commands/system/history/README.md) | System | Display past |
 
 
 
@@ -94,7 +95,7 @@ These commands are already scaffolded and queued for full write-ups:
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
-- **System:** `uname`, `env`, `history`
+- **System:** `uname`, `env`
 
 ---
 
