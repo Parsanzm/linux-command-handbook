@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 31 of 50 command pages fully completed (62%).**
+**Current progress: 32 of 50 command pages fully completed (64%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -31,7 +31,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
 | ⚙️ Processes | 0 / 5 | ⏳ Planned |
-| 🛠️ System | 4 / 6 | 🚧 In progress |
+| 🛠️ System | 5 / 6 | 🚧 In progress |
 
 ---
 
@@ -83,6 +83,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`cron-crontab`](commands/system/cron-crontab/README.md) | System | Automated background scheduling |
 | [`uptime`](commands/system/uptime/README.md) | System | System running time |
 | [`history`](commands/system/history/README.md) | System | Display past |
+| [`env`](commands/system/env/README.md) | System | Display environment variables |
 
 
 
@@ -95,7 +96,7 @@ These commands are already scaffolded and queued for full write-ups:
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
 - **Processes:** `ps`, `top`, `htop`, `kill`, `systemctl`
-- **System:** `uname`, `env`
+- **System:** `uname`
 
 ---
 
