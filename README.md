@@ -30,7 +30,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 📁 Files | 0 / 6 | ⏳ Planned |
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
-| ⚙️ Processes | 1 / 5 | ⏳ Planned |
+| ⚙️ Processes | 1 / 5 | 🚧 In progress |
 | 🛠️ System | 6 / 6 | ✅ Complete |
 
 ---
