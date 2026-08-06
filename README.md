@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-36%20%2F%2050%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-37%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 36 of 50 command pages fully completed (72%).**
+**Current progress: 37 of 50 command pages fully completed (74%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -30,7 +30,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 📁 Files | 0 / 6 | ⏳ Planned |
 | 🌐 Networking | 0 / 6 | ⏳ Planned |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
-| ⚙️ Processes | 3 / 5 | 🚧 In progress |
+| ⚙️ Processes | 4 / 5 | 🚧 In progress |
 | 🛠️ System | 6 / 6 | ✅ Complete |
 
 ---
@@ -88,6 +88,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`ps`](commands/processes/ps/README.md) | Processes | Snapshot of processes |
 | [`systemctl`](commands/processes/systemctl/README.md) | Processes | Controls systemd services |
 | [`kill`](commands/processes/kill/README.md) | Processes | Sends process signals |
+| [`htop`](commands/processes/htop/README.md) | Processes | Interactive process monitor |
 
 
 
@@ -99,7 +100,7 @@ These commands are already scaffolded and queued for full write-ups:
 
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
 - **Networking:** `ssh`, `scp`, `curl`, `wget`, `ping`, `netstat`
-- **Processes:** `top`, `htop`
+- **Processes:** `top`
 
 ---
 
