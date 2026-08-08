@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-39%20%2F%2050%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-40%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 39 of 50 command pages fully completed (78%).**
+**Current progress: 40 of 50 command pages fully completed (80%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -28,7 +28,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 💽 Disk | 4 / 4 | ✅ Complete |
 | 📦 Archives | 2 / 2 | ✅ Complete |
 | 📁 Files | 0 / 6 | ⏳ Planned |
-| 🌐 Networking | 1 / 6 | 🚧 In progress |
+| 🌐 Networking | 2 / 6 | 🚧 In progress |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
 | ⚙️ Processes | 5 / 5 | ✅ Complete |
 | 🛠️ System | 6 / 6 | ✅ Complete |
@@ -91,6 +91,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`htop`](commands/processes/htop/README.md) | Processes | Interactive process monitor |
 | [`top`](commands/processes/top/README.md) | Processes | Live process monitor |
 | [`ssh`](commands/networking/ssh/README.md) | Networking | Secure remote shell |
+| [`curl`](commands/networking/curl/README.md) | Networking | Transfers data via URLs |
 
 
 
@@ -101,7 +102,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 These commands are already scaffolded and queued for full write-ups:
 
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
-- **Networking:** `scp`, `curl`, `wget`, `ping`, `netstat`
+- **Networking:** `scp`, `wget`, `ping`, `netstat`
 
 ---
 
