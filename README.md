@@ -5,7 +5,7 @@
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-![Progress](https://img.shields.io/badge/commands-43%20%2F%2050%20completed-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-44%20%2F%2050%20completed-yellow.svg)
 
 This isn't a copy-paste cheat sheet. Every finished page covers what a command actually *is*, how it works internally, its full syntax, dozens of real examples, the edge cases that trip people up, and the kind of questions you'd get asked about it in an interview.
 
@@ -17,7 +17,7 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 
 ⭐ **Star or watch this repo** to follow new additions, and feel free to suggest or request a command via an issue.
 
-**Current progress: 43 of 50 command pages fully completed (86%).**
+**Current progress: 44 of 50 command pages fully completed (88%).**
 
 | Category | Progress | Status |
 |---|---|---|
@@ -27,8 +27,8 @@ This isn't a copy-paste cheat sheet. Every finished page covers what a command a
 | 🧭 Navigation | 4 / 4 | ✅ Complete |
 | 💽 Disk | 4 / 4 | ✅ Complete |
 | 📦 Archives | 2 / 2 | ✅ Complete |
-| 📁 Files | 0 / 6 | ⏳ Planned |
-| 🌐 Networking | 5 / 6 | 🚧 In progress |
+| 📁 Files | 0 / 6 | 🚧 In progress |
+| 🌐 Networking | 6 / 6 | ✅ Complete |
 | 🔐 Permissions | 3 / 3 | ✅ Complete |
 | ⚙️ Processes | 5 / 5 | ✅ Complete |
 | 🛠️ System | 6 / 6 | ✅ Complete |
@@ -95,6 +95,7 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 | [`netstat`](commands/networking/netstat/README.md) | Networking | Shows network connections |
 | [`ping`](commands/networking/ping/README.md) | Networking | Tests host reachability |
 | [`wget`](commands/networking/wget/README.md) | Networking | Downloads files reliably |
+| [`scp`](commands/networking/scp/README.md) | Networking | Securely copies files |
 
 
 
@@ -105,7 +106,6 @@ Each command lives in its own folder under `commands/<category>/<command>/` and 
 These commands are already scaffolded and queued for full write-ups:
 
 - **Files:** `cp`, `mv`, `rm`, `mkdir`, `touch`, `ln`
-- **Networking:** `scp`
 
 ---
 
