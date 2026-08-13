@@ -137,18 +137,6 @@ linux-command-handbook/
 
 ---
 
-## 🤝 Contributing
-
-Contributions are very welcome — this project grows faster with more hands on it. To add or improve a command page:
-
-1. Pick a command from the **Coming soon** list above (or propose a new one via an issue).
-2. Use one of the completed pages (e.g. [`awk`](commands/text-processing/awk/README.md) or [`find`](commands/search/find/README.md)) as a template for depth and structure.
-3. Fill in all four files: `README.md`, `examples.md`, `edge-cases.md`, `interview-questions.md`.
-4. Open a pull request — even partial or draft contributions are appreciated.
-
-Found a typo, a broken example, or an outdated explanation? Open an issue or PR — keeping existing pages accurate matters as much as adding new ones.
-
----
 
 ## 🎯 Goals
 
