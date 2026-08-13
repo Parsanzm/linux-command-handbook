@@ -11,7 +11,7 @@ interview-ready explanations.
 ![Progress](https://img.shields.io/badge/commands-45%20%2F%2050-yellow.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-[Browse commands](#-completed-guides) · [What's inside](#-what-every-command-page-covers) · [Coming soon](#-coming-soon) · [Contributing](#-contributing)
+[Browse commands](#-completed-guides) · [What's inside](#-what-every-command-page-covers) · [Coming soon](#-coming-soon) 
 
 </div>
 
@@ -259,13 +259,6 @@ linux-command-handbook/
 - Understand the edge cases that documentation usually skips
 - Build a reference solid enough for daily use
 - Prepare for technical interviews with command-specific Q&A
-
-## 🤝 Contributing
-
-Corrections, new examples, and requests for uncovered commands are all
-welcome — open an issue or a pull request. Every page follows the same
-four-file format described above, so a new command's scaffold is easy to
-match against existing ones.
 
 ## 📜 License
 
