@@ -8,7 +8,7 @@ interview-ready explanations.
 
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
-![Progress](https://img.shields.io/badge/commands-47%20%2F%2050-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-48%20%2F%2050-yellow.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
 [Browse commands](#-completed-guides) · [What's inside](#-what-every-command-page-covers) · [Coming soon](#-coming-soon) 
@@ -34,7 +34,7 @@ suggest or request a command.
 
 <div align="center">
 
-### Progress: 47 / 50 commands completed — 94%
+### Progress: 48 / 50 commands completed — 96%
 
 `██████████████████████████████████████████░░`
 
@@ -42,7 +42,7 @@ suggest or request a command.
 
 | Category | Progress | Status |
 |---|:---:|:---:|
-| 📁 Files | 3 / 6 | 🚧 In progress |
+| 📁 Files | 4 / 6 | 🚧 In progress |
 | 🔎 Search | 2 / 2 | ✅ Complete |
 | 👤 User Management | 3 / 3 | ✅ Complete |
 | 📝 Text Processing | 9 / 9 | ✅ Complete |
@@ -215,6 +215,7 @@ and follows the same four-file format:
 | [`mkdir`](commands/files/mkdir/README.md) | Create new directories |
 | [`touch`](commands/files/touch/README.md) | Creates or updates timestamps |
 | [`rm`](commands/files/rm/README.md) | Deletes files permanently |
+| [`cp`](commands/files/cp/README.md) | Copies files/directories |
 
 </details>
 
@@ -224,7 +225,7 @@ and follows the same four-file format:
 
 Already scaffolded and queued for a full write-up:
 
-`cp` · `mv` · `ln`
+`mv` · `ln`
 
 ---
 
