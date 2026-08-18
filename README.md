@@ -38,7 +38,7 @@ suggest or request a command.
 
 | Category | Progress | Status |
 |---|:---:|:---:|
-| 📁 Files | 6 / 6 | 🚧 In progress |
+| 📁 Files | 6 / 6 | ✅ Complete |
 | 🔎 Search | 2 / 2 | ✅ Complete |
 | 👤 User Management | 3 / 3 | ✅ Complete |
 | 📝 Text Processing | 9 / 9 | ✅ Complete |
