@@ -8,10 +8,10 @@ interview-ready explanations.
 
 ![License](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)
 ![Status](https://img.shields.io/badge/status-actively%20maintained-success.svg)
-![Progress](https://img.shields.io/badge/commands-49%20%2F%2050-yellow.svg)
+![Progress](https://img.shields.io/badge/commands-50%20%2F%2050-yellow.svg)
 ![PRs](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
-[Browse commands](#-completed-guides) · [What's inside](#-what-every-command-page-covers) · [Coming soon](#-coming-soon) 
+[Browse commands](#-completed-guides) · [What's inside](#-what-every-command-page-covers) 
 
 </div>
 
@@ -23,26 +23,22 @@ real-world examples, the edge cases that trip people up, and the kind of
 questions you'd actually be asked about it in an interview.
 
 ## 🚧 Project status
-
-This handbook is a **living project** — new command pages are added
-regularly, and any existing page can be expanded or corrected over time.
-Nothing here is ever "final." If a command isn't documented yet, it's most
-likely already scaffolded and queued to be written next.
+Completed
 
 ⭐ **Star or watch this repo** to follow new additions, and open an issue to
 suggest or request a command.
 
 <div align="center">
 
-### Progress: 49 / 50 commands completed — 98%
+### Progress: 50 / 50 commands completed — 100%
 
-`███████████████████████████████████████████░`
+`████████████████████████████████████████████`
 
 </div>
 
 | Category | Progress | Status |
 |---|:---:|:---:|
-| 📁 Files | 5 / 6 | 🚧 In progress |
+| 📁 Files | 6 / 6 | 🚧 In progress |
 | 🔎 Search | 2 / 2 | ✅ Complete |
 | 👤 User Management | 3 / 3 | ✅ Complete |
 | 📝 Text Processing | 9 / 9 | ✅ Complete |
@@ -217,16 +213,11 @@ and follows the same four-file format:
 | [`rm`](commands/files/rm/README.md) | Deletes files permanently |
 | [`cp`](commands/files/cp/README.md) | Copies files/directories |
 | [`mv`](commands/files/mv/README.md) | Renames or relocates files |
+| [`ln`](commands/files/ln/README.md) | Links files together |
 
 </details>
 
 ---
-
-## ⏳ Coming soon
-
-Already scaffolded and queued for a full write-up:
-
-`ln`
 
 ---
 
